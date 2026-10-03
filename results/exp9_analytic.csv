@@ -1,0 +1,5 @@
+image,baseline_q,analytic_q,analytic_sd
+baboon,0.199123,0.240090,0.001077
+astronaut,0.292092,0.359542,0.001077
+coffee,0.297996,0.332180,0.001023
+chelsea,0.225750,0.301452,0.001195

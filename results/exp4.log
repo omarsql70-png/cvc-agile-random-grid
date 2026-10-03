@@ -1,0 +1,36 @@
+[exp4] astronaut bias seed 1: indep 0.29175 (baseline 0.29209)
+[exp4] astronaut bias seed 2: indep 0.29210 (baseline 0.29209)
+[exp4] astronaut bias seed 3: indep 0.29206 (baseline 0.29209)
+[exp4] astronaut bias seed 4: indep 0.29188 (baseline 0.29209)
+[exp4] astronaut bias seed 5: indep 0.29209 (baseline 0.29209)
+[exp4] astronaut gamma seed 1: indep 0.34112 (baseline 0.29209)
+[exp4] astronaut gamma seed 2: indep 0.34134 (baseline 0.29209)
+[exp4] astronaut gamma seed 3: indep 0.34167 (baseline 0.29209)
+[exp4] astronaut gamma seed 4: indep 0.34135 (baseline 0.29209)
+[exp4] astronaut gamma seed 5: indep 0.34140 (baseline 0.29209)
+[exp4] coffee bias seed 1: indep 0.29816 (baseline 0.29800)
+[exp4] coffee bias seed 2: indep 0.29791 (baseline 0.29800)
+[exp4] coffee bias seed 3: indep 0.29816 (baseline 0.29800)
+[exp4] coffee bias seed 4: indep 0.29795 (baseline 0.29800)
+[exp4] coffee bias seed 5: indep 0.29773 (baseline 0.29800)
+[exp4] coffee gamma seed 1: indep 0.31230 (baseline 0.29800)
+[exp4] coffee gamma seed 2: indep 0.31211 (baseline 0.29800)
+[exp4] coffee gamma seed 3: indep 0.31205 (baseline 0.29800)
+fatal: caught signal Terminated -- stopping myself...
+attempting to save variables to 'octave-workspace'...
+save to 'octave-workspace' complete
+[exp4] coffee gamma seed 4: indep 0.31247 (baseline 0.29800)
+[exp4] coffee gamma seed 5: indep 0.31230 (baseline 0.29800)
+[exp4] chelsea bias seed 1: indep 0.22562 (baseline 0.22575)
+[exp4] chelsea bias seed 2: indep 0.22543 (baseline 0.22575)
+[exp4] chelsea bias seed 3: indep 0.22570 (baseline 0.22575)
+[exp4] chelsea bias seed 4: indep 0.22578 (baseline 0.22575)
+fatal: caught signal Terminated -- stopping myself...
+attempting to save variables to 'octave-workspace'...
+save to 'octave-workspace' complete
+[exp4] chelsea bias seed 5: indep 0.22584 (baseline 0.22575)
+[exp4] chelsea gamma seed 1: indep 0.26541 (baseline 0.22575)
+[exp4] chelsea gamma seed 2: indep 0.26547 (baseline 0.22575)
+[exp4] chelsea gamma seed 3: indep 0.26549 (baseline 0.22575)
+[exp4] chelsea gamma seed 4: indep 0.26531 (baseline 0.22575)
+[exp4] chelsea gamma seed 5: indep 0.26530 (baseline 0.22575)

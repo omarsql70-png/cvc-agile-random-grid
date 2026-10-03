@@ -1,0 +1,4 @@
+image,mode,optimizer,seed,search_qp,indep_qp,indep_q,indep_dE,indep_ssimL,evals
+baboon,knee4,GWO,1,0.375459,0.374695,0.239253,24.2155,0.23370,800
+baboon,knee4,GWO,2,0.375486,0.376058,0.240049,24.4251,0.24062,800
+baboon,knee4,GWO,3,0.374966,0.374132,0.236937,24.0772,0.22981,800
