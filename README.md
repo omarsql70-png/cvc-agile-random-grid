@@ -1,7 +1,12 @@
 # Agile, evaluation-gated design of a pixel-expansion-free color VC scheme — research package (v8, submission version)
 
-Authors: Omar Isam Al-Mrayat, Dyala Ibrahim, Malik Jawarneh (corresponding: m.jawarneh@aau.edu.jo)
-Target journal: Journal of Intelligent Systems (De Gruyter)
+# An Evaluation-Gated Agile Framework for Designing a Pixel-Expansion-Free Color Visual Cryptography Scheme — research package
+
+**Authors:** Omar Isam Al-Mrayat, Dyala Ibrahim, Malik Jawarneh, Fawzy Habeeb, Ashraf Alyanbaaw, Ghada Elmarhomy, El Sayed Atlam
+
+**Corresponding author:** Omar Isam Al-Mrayat (o.mrayat@aau.edu.jo)
+
+This repository contains the complete GNU Octave implementation (including the C/MEX Floyd–Steinberg routine), the scripts that reproduce every experiment, table and figure (`run_all.sh`), and the per-seed results reported in the article.
 
 ## Contents
 | Folder | What it holds |
