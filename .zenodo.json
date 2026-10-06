@@ -1,0 +1,17 @@
+{
+  "title": "Code and data for: An Evaluation-Gated Agile Framework for Designing a Pixel-Expansion-Free Color Visual Cryptography Scheme (v1.1)",
+  "upload_type": "software",
+  "description": "GNU Octave implementation (including the C/MEX Floyd–Steinberg halftoning routine), scripts that reproduce every experiment, table and figure, and per-seed results for the article.",
+  "creators": [
+    {"name": "Al-Mrayat, Omar Isam", "affiliation": "Amman Arab University"},
+    {"name": "Ibrahim, Dyala", "affiliation": "Middle East University"},
+    {"name": "Jawarneh, Malik", "affiliation": "Amman Arab University"},
+    {"name": "Habeeb, Fawzy", "affiliation": "University of Jeddah"},
+    {"name": "Alyanbaaw, Ashraf", "affiliation": "Taibah University"},
+    {"name": "Elmarhomy, Ghada", "affiliation": "Taibah University"},
+    {"name": "Atlam, El Sayed", "affiliation": "Taibah University"}
+  ],
+  "keywords": ["visual cryptography", "random grid", "color image", "error diffusion", "agile development"],
+  "version": "v1.1",
+  "access_right": "open"
+}
